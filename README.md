@@ -34,7 +34,7 @@ O repositório contém dois scripts principais:
     python ransomware.py
     
     # Para o Keylogger
-    python keylogger_mail.py
+    python keylogger.py
     ```
 
 ## Reflexão sobre Defesa Cibernética
